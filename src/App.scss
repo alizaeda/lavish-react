@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+
+// colors
+$danger: #c00c00;
+
+// globals
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "PT Sans", sans-serif;
+}
