@@ -123,7 +123,11 @@ function Footer() {
         </div>
       </section>
       <div className="copyright">
-        Coded By <a href="https://github.com/alizaeda">Ali Eslam</a> &copy;
+        Coded By{" "}
+        <a href="https://github.com/alizaeda" target="_blank">
+          Ali Eslam
+        </a>{" "}
+        &copy;
       </div>
     </div>
   );
