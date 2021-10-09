@@ -76,7 +76,6 @@ function Footer() {
               LAVISH
             </Link>
           </div>
-          <small className="website-rights">LAVISH © 2020</small>
           <div className="social-icons">
             <Link
               className="social-icon-link"
